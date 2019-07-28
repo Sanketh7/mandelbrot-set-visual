@@ -4,6 +4,15 @@ Draws a portion of the Mandelbrot Set based on user input. Originally created to
 
 
 
+## Technologies Used
+
+| Name    | Description                                                  |
+| ------- | ------------------------------------------------------------ |
+| Python  | A scripting language. The program is written using this.     |
+| Tkinter | A graphics library. The calculated points are displayed using this. |
+
+
+
 ## Usage
 
 1. Make sure you have python 3.x installed (will not work with python 2.x)
